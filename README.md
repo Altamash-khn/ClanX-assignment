@@ -1,12 +1,26 @@
-# React + Vite
+# ClanX Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React + Vite** assignment project that replicates a “Whale Alert” UI inspired by the Loch app concept.  
+It demonstrates layout design, responsive structure, and component composition using **React**, **Tailwind CSS**, and **ShadCN UI components**.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Click <a href="https://clan-x-assignment-five.vercel.app/">HERE</a> to see a live demo.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Card sliders with icons and testimonial cards
+- Input fields and buttons styled via reusable UI components
+- Integration of `lucide-react` icons
+- Clean modern design built using Tailwind and component reusability
+
+## Tech Stack
+
+- **Framework:** React (Vite)
+- **UI Components:** ShadCN UI
+- **Icons:** Lucide React
+- **Styling:** Tailwind CSS
+
+## Project Structure
+
+<img src="/Folder-Structure.png" />
