@@ -1,11 +1,27 @@
-# ClanX Assignment
+# ClanX Landing Page Clone
 
-This is a **React + Vite** assignment project that replicates a “Whale Alert” UI inspired by the Loch app concept.  
-It demonstrates layout design, responsive structure, and component composition using **React**, **Tailwind CSS**, and **ShadCN UI components**.
+This project is a **frontend assignment** replicating the **ClanX Figma landing page design** using **React** and **TailwindCSS**.  
+It focuses on achieving a **pixel-perfect desktop layout (1440px)** with clean structure, modern animations, and smooth UI interactions.  
+The design is **not responsive**, following the original static Figma reference.
+
+---
 
 ## Live Demo
 
-Click <a href="https://clan-x-assignment-five.vercel.app/">HERE</a> to see a live demo.
+**URL:** [https://clan-x-assignment-five.vercel.app/](https://clan-x-assignment-five.vercel.app/)
+
+---
+
+## Tech Stack
+
+- **React 19** – Component-based UI framework
+- **TailwindCSS 4** – Utility-first CSS styling
+- **Framer Motion** – Smooth animations and transitions
+- **Lucide React** – Icon set for UI components
+- **clsx / class-variance-authority / tailwind-merge** – Efficient class handling
+- **Vite** – Lightning-fast development and build tool
+
+---
 
 ## Features
 
@@ -14,13 +30,34 @@ Click <a href="https://clan-x-assignment-five.vercel.app/">HERE</a> to see a liv
 - Integration of `lucide-react` icons
 - Clean modern design built using Tailwind and component reusability
 
-## Tech Stack
+---
 
-- **Framework:** React (Vite)
-- **UI Components:** ShadCN UI
-- **Icons:** Lucide React
-- **Styling:** Tailwind CSS
+## Folder Structure
 
-## Project Structure
+<img src="/Folder-Structure.png"/>
 
-<img src="/Folder-Structure.png" />
+## Installation & Setup
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Altamash-khn/ClanX-assignment.git
+   cd ClanX-assignment
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in your browser**
+   ```
+   http://localhost:5173
+   ```
