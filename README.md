@@ -1,7 +1,7 @@
 # ClanX Landing Page Clone
 
 This project is a **frontend assignment** replicating the **ClanX Figma landing page design** using **React** and **TailwindCSS**.  
-It focuses on achieving a **pixel-perfect desktop layout (1440px)** with clean structure, modern animations, and smooth UI interactions.  
+It focuses on achieving a **pixel-perfect desktop layout** with clean structure and smooth UI interactions.  
 The design is **not responsive**, following the original static Figma reference.
 
 ---
